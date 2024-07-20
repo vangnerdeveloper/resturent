@@ -1,0 +1,47 @@
+/*background*/
+.bg-cover{
+    background-image:linear-gradient(to bottom,#9D0E0E00 5% ,#4F0707 100%), url("../images/bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 550px;
+}
+/*logo*/
+.circle{
+    background-color: white;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+   margin: 11em 0 0 35em;
+}
+.logo{
+    font-size: 70px;
+    text-align: center;
+    font-weight: bold;
+    padding: 25px;
+}
+
+
+/*b0x*/
+.box{
+    border: 1px green;
+    margin-top: 5em;
+    box-shadow: 4px 6px 8px #aaa8a8;
+    margin-left: 45px;
+}
+
+.l-box{
+    height: 14em;
+    width: 14em;
+}
+
+.r-box{
+    height: 14em;
+    width: 14em;
+    padding: 30px;
+}
+
+.qs{
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
